@@ -1,0 +1,75 @@
+[
+    {
+      "id": 1,
+      "name": "Valkyrie",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_1a.png?alt=media&token=ffc7bdc1-c25e-436a-878f-1e7698892164",
+      "describtion": "A master of the two-handed axe, this glorious warrior runs between nearby buildings and can shred several troops or buildings at once with her whirlwind blow!"
+
+    },
+    {
+      "id": 2,
+      "name": "Healer",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_2a.png?alt=media&token=eb2297fe-8214-48d2-acc0-3154f9adc1fd",
+      "describtion": "This majestic creature lives to protect and aid her fellow troops. Any army is improved with her healing support, but make sure to protect her from air defenses!"
+    },
+    {
+        "id": 3,
+        "name": "Beta Minion",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_3a.png?alt=media&token=52c1bcaf-c687-4992-aadb-353e842d0a48",
+        "describtion": "Attacks targets from a distance, glows in the dark, and is a maniac on the dance floor."
+    },
+    {
+      "id": 4,
+      "name": "Dragon",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_4a.png?alt=media&token=061d0571-0750-4ce3-bb91-0d946baba67a",
+      "describtion": "The might of the dragons are known throughout the land. This scaly terror of the skies feels no mercy and nothing will escape the fiery splashes of his breath."
+    },
+    {
+      "id": 5,
+      "name": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_5a.png?alt=media&token=4af980df-c9e0-46b4-9c5a-6f4b9664503c",
+      "imageUrl": "Kamren",
+      "describtion": "Focused magic creates focused results. Instead of summoning hordes of tiny Skeletons, Super Witch summons just one really big skeleton with very formidable bone density."
+    },
+    {
+      "id": 6,
+      "name": "Siege Barracks",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_6a.png?alt=media&token=4eb6da26-eb08-4a45-9d0c-453ab83b8791",
+      "describtion": "The Siege Barracks parachutes down gracefully to first release a menagerie of P.E.K.K.As and Wizards and then the Clan Castle troops. How they all managed to squeeze inside is a mystery not really worth investigating."
+    },
+    {
+        "id": 7,
+        "name": "Super Giant",
+        "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_7a.png?alt=media&token=547a6607-43b8-436a-92a2-0f11cf181c28",
+        "describtion": "Super Giants are more visually similar to Boxer Giants than the regular ones, having a belt and compression bandages around the wrist and a different hairstyle."
+      },
+    {
+      "id": 8,
+      "name": "Super Barbarian",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_8a.png?alt=media&token=1d19d48b-a0dd-44d8-9be5-17b9e4581722",
+      "describtion": "Superior in health, power, speed and most importantly, hair, the Super Barbarians are what regular Barbarians dream of becoming!"
+    },
+    {
+      "id": 9,
+      "name": "Ice Hound",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_9a.png?alt=media&token=25ca3856-ec34-40a8-b502-2d3d9475a7da",
+      "describtion": "Free from all the lava-induced indigestion, the Ice Hound is ready to freeze the flow of battle. Chill out, or else."
+    },
+    {
+      "id": 10,
+      "name": "Super Minion",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_10a.png?alt=media&token=3f4a909c-23eb-4f0e-a0c1-7acd69d1b68b",
+      "describtion": "Super Minion's big forehead isn't just for show: sniping enemy defenses from a safe distance is simply a brainy move! Especially when you've grown too big to avoid Seeking Air Mines."
+    },
+    {
+      "id": 11,
+      "name": "Unicorn",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_11a.png?alt=media&token=24d0267f-3154-455c-978f-f82bf0dbdd87",
+      "describtion": "Unicorns have severe trust issues, but overcoming them with love and patience is totally worth it. They'll heal up any minor or major scrapes as well as any Healer!"
+    },
+    {
+      "id": 12,
+      "name": "Royal Ghost",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_12a.png?alt=media&token=f9020691-2344-445d-bce2-b7ec021bd582",
+      "describtion": "Upset that no one notices him, the Royal Ghost is determined to smash things up until he gets the recognition he deserves. He's so unnoticeable that even walls won't hold him back!"
+    }
+  ]
