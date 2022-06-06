@@ -1,16 +1,16 @@
 [
     {
       "id": 1,
-      "name": "Valkyrie",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_1a.png?alt=media&token=ffc7bdc1-c25e-436a-878f-1e7698892164",
-      "describtion": "A master of the two-handed axe, this glorious warrior runs between nearby buildings and can shred several troops or buildings at once with her whirlwind blow!"
+      "name": "Super Wizard",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_1a.png?alt=media&token=a6895ad9-9f5c-4404-b98a-d92205854974",
+      "describtion": "Super Wizard is positively charged with magical energy! He's either the smartest person in the room... or else he blows the whole room to bits."
 
     },
     {
       "id": 2,
-      "name": "Healer",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_2a.png?alt=media&token=eb2297fe-8214-48d2-acc0-3154f9adc1fd",
-      "describtion": "This majestic creature lives to protect and aid her fellow troops. Any army is improved with her healing support, but make sure to protect her from air defenses!"
+      "name": "Sneaky Goblin",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_2a.png?alt=media&token=883c8615-f725-40c3-8b73-e801e3d493dc",
+      "describtion": "Sneaky Goblins have a talent going unnoticed for a while after being deployed. It's usually the incredibly loud sound of resources being pilfered that gives them away."
     },
     {
         "id": 3,
@@ -32,9 +32,9 @@
     },
     {
       "id": 6,
-      "name": "Siege Barracks",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_6a.png?alt=media&token=4eb6da26-eb08-4a45-9d0c-453ab83b8791",
-      "describtion": "The Siege Barracks parachutes down gracefully to first release a menagerie of P.E.K.K.As and Wizards and then the Clan Castle troops. How they all managed to squeeze inside is a mystery not really worth investigating."
+      "name": "Super Dragon",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_6a.png?alt=media&token=95e5594e-5e15-45bb-b192-35fde6ab026b",
+      "describtion": "Sometimes having a fire inside of you isn't enough. The Super Dragon has fires on the inside, outside, and if he gets to do his thing, all around him!"
     },
     {
         "id": 7,
@@ -68,8 +68,8 @@
     },
     {
       "id": 12,
-      "name": "Royal Ghost",
-      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_12a.png?alt=media&token=f9020691-2344-445d-bce2-b7ec021bd582",
-      "describtion": "Upset that no one notices him, the Royal Ghost is determined to smash things up until he gets the recognition he deserves. He's so unnoticeable that even walls won't hold him back!"
+      "name": "Super Archer",
+      "imageUrl": "https://firebasestorage.googleapis.com/v0/b/dais-h.appspot.com/o/class_12a.png?alt=media&token=6e0aa891-fdbf-4cf9-bab9-9eb6ab4852d7",
+      "describtion": "Having achieved serious arm strength, the Super Archer can now threaten targets several buildings away.!"
     }
   ]
